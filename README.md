@@ -87,8 +87,7 @@ ikxhmuk8scbg2trtnym32b.streamlit.app/
 
 Project source code:
 
-🔗 https://github.com/prudhvi040/Data_visualization_final_project
----
+🔗 https://datavisualizationfinalproject-ikxhmuk8scbg2trtnym32b.streamlit.app/
 
 ## ▶️ How to Run the Project
 
