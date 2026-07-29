@@ -79,8 +79,7 @@ Explore the interactive dashboard here:
 
 🔗 **Live Dashboard**
 
-https://datavisualizationfinalproject-
-ikxhmuk8scbg2trtnym32b.streamlit.app/
+https://datavisualizationfinalproject-ikxhmuk8scbg2trtnym32b.streamlit.app/
 ---
 
 ## 💻 GitHub Repository
